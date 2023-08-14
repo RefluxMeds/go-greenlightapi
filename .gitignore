@@ -1,4 +1,4 @@
-
+.envrc
 *.exe
 *.exe~
 *.dll
@@ -8,3 +8,4 @@
 *.out
 go.work
 tls/
+bin/
